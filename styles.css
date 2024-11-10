@@ -28,3 +28,13 @@ body{
     align-items: center;
     width: 860px;
 }
+
+.shoeBackground{
+    position: relative;
+    width: 50%;
+    height: 475px;
+    box-shadow: -15px 0 35px rgba(0, 0, 0, 0.1),
+    0 -15px 35px rgba(0, 0, 0, 0.1),
+    0 15px 35px rgba(0, 0, 0, 0.1);
+    transition: .5s;
+}
