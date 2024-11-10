@@ -3,3 +3,6 @@ const colors = document.querySelectorAll('.color');
 const shoes = document.querySelectorAll('.shoe');
 const gradients = document.querySelectorAll('.gradient');
 const shoeBg = document.querySelector('.shoeBackground');
+
+let prevColor = "blue";
+let animationEnd = true;
