@@ -462,3 +462,12 @@ body{
     }
 }
 
+@media (max-width: 400px){
+    .buy i{
+        display: none;
+    }
+
+    .container{
+        padding: 20px;
+    }
+}
