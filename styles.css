@@ -194,3 +194,23 @@ body{
 .shoeName, .description, .color-container, .size-container{
     border-bottom: 1px solid #dadada;
 }
+
+.description{
+    padding: 10px 0;
+}
+
+.title{
+    color: #3a3a3a;
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+.text{
+    color: #555;
+    font-size: 17px;
+}
+
+.color-container{
+    padding: 10px 0;
+}
