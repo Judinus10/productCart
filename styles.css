@@ -336,3 +336,9 @@ body{
 .buy i{
     margin-right: 2px;
 }
+
+@media (max-width: 1070px){
+    .shoe{
+        width: 135%;
+    }
+}
