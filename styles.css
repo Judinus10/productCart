@@ -21,3 +21,10 @@ body{
     padding: 40px;
     overflow: hidden;
 }
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 860px;
+}
