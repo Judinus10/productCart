@@ -134,3 +134,17 @@ body{
     color: #fff;
     opacity: .1;
 }
+
+.shoe{
+    position: absolute;
+    width: 140%;
+    opacity: 0;
+    bottom: 0;
+    right: 0;
+    transform: rotate(-20deg);
+    transition: .5s;
+}
+
+.shoe.show{
+    opacity: 1;
+}
