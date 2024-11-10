@@ -6,3 +6,8 @@ const shoeBg = document.querySelector('.shoeBackground');
 
 let prevColor = "blue";
 let animationEnd = true;
+
+function changeSize(){
+    sizes.forEach(size => size.classList.remove('active'));
+    this.classList.add('active');
+}
